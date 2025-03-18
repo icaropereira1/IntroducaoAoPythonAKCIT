@@ -1,0 +1,3 @@
+raining = True
+
+print(raining)
