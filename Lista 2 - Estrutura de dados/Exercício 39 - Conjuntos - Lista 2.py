@@ -1,7 +1,7 @@
 numeros = {1,2,3,4,5}
 print(numeros)
 
-numeros.add(6)
+numeros.remove(5)
 
 print(numeros)
 print(type(numeros))
